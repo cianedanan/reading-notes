@@ -14,6 +14,5 @@ Reminders for maintaining a __Growth Mindset__
 - 👋 Hi, I’m Cianenry.
 - 👀 I’m interested in video games, fitness, food, sleeping.   
 - 🌱 I’m currently learning HTML, CSS and JavaScript.
-- 📫 How to reach me: cianenryd@gmail.com
 
-Peep my profile! [GitHub Pages](https://github.com/cianedanan)
+Peep my profile [here!](https://github.com/cianedanan)
