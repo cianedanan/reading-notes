@@ -16,4 +16,4 @@ Reminders for maintaining a __Growth Mindset__
 - 🌱 I’m currently learning HTML, CSS and JavaScript.
 - 📫 How to reach me: cianenryd@gmail.com
 
-Peep my profile! https://github.com/cianedanan
+Peep my profile! [GitHub Pages](https://github.com/cianedanan)
