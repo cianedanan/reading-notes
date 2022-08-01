@@ -11,3 +11,9 @@ Reminders for maintaining a __Growth Mindset__
 2. Failure is one of the best lessons 
 3. Michael Jordan didn't make his highschool basketball team
 
+- 👋 Hi, I’m Cianenry.
+- 👀 I’m interested in video games, fitness, food, sleeping.   
+- 🌱 I’m currently learning HTML, CSS and JavaScript.
+- 📫 How to reach me: cianenryd@gmail.com
+
+Peep my profile! https://github.com/cianedanan
