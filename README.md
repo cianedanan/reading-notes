@@ -21,3 +21,6 @@ Peep my profile [here!](https://github.com/cianedanan)
 
 [Read: 02 - The Coder's Computer](https://cianedanan.github.io/reading-notes/class2.html)
 
+[Read: 03 - Revisions and the Cloud](https://cianedanan.github.io/reading-notes/class3.html)
+
+[Read: 04 - Structure web pages with HTML](https://cianedanan.github.io/reading-notes/class4.html)
