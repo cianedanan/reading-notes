@@ -2,16 +2,16 @@
 
 __Markdowns and ~~Fixed~~ Growth Mindset__
 
-_Having a growth mindset is being open to new perspectives/ideas and being able to learn from failure._ 
+_Having a growth mindset is knowing desired skills and intelligence are obtainable through perserverance. Being born gifted sure can help, but full potential can't be reached without consistant effort._ 
 
-_Hard work and percervierance > Natural gifts/abilities._ 
+_:muscle::triumph: > :four_leaf_clover:_ 
 
 Reminders for maintaining a __Growth Mindset__
-1. Asking questions is a must
-2. Failure is one of the best lessons 
-3. Michael Jordan didn't make his highschool basketball team
+1. Ask what went well and ask what could have gone better?
+2. Roundhouse the instant gratifcation monkey in the forehead 
+3. Remember Michael Jordan didn't make varsity his sophmore year in highschool
 
-- 👋 Hi, I’m Cianenry.
+- 👋 Hi, I’m Cianenry. Pronounced Shuh-Nen-Ree.
 - 👀 I’m interested in video games, fitness, food, sleeping.   
 - 🌱 I’m currently learning HTML, CSS and JavaScript.
 
