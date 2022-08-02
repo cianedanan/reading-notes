@@ -16,3 +16,12 @@ Reminders for maintaining a __Growth Mindset__
 - 🌱 I’m currently learning HTML, CSS and JavaScript.
 
 Peep my profile [here!](https://github.com/cianedanan)
+
+## Read: 01 - Learning Markdown
+
+_What is Markdown?_
+
+Markdown is a begginer friendly coding language used primarly for tweaking the appearance of plain text.
+
+
+
