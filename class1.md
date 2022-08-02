@@ -16,7 +16,7 @@ ___Why use Markdown?___
 
 It's easy-peasy-lemon-squeezy and its FREEEE!
 
-## Makrdown Processors
+## Markdown Processors
 
 At the top of this page the header Read: 01 - Learning Markdown uses Markdown to become a level 1 header. It's the largest out of the 6 possible header sizes. Putting a # at the start of a line will create this effect. Adding multiple #s before the text will make the header smaller. 
 
