@@ -20,15 +20,15 @@ It's easy-peasy-lemon-squeezy and its FREEEE!
 
 At the top of this page the header Read: 01 - Learning Markdown uses Markdown to become a level 1 header. It's the largest out of the 6 possible header sizes. Putting a # at the start of a line will create this effect. Adding multiple #s before the text will make the header smaller. 
 
-#### Output:
+__Output:__
 ### Read: 01 - Learning Markdown 3
 In markdown: ### Read: 01 - Learning Markdown 3
 
-##### Output:
+__Output:__
 #### Read: 01 - Learning Markdown 4
 In markdown: #### Read: 01 - Learning Markdown 4
 
-##### Output:
+__Output:__
 ##### Read: 01 - Learning Markdown 5
 In markdown: ##### Read: 01 - Learning Markdown 5
 
