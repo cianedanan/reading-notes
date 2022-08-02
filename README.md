@@ -17,11 +17,7 @@ Reminders for maintaining a __Growth Mindset__
 
 Peep my profile [here!](https://github.com/cianedanan)
 
-## Read: 01 - Learning Markdown
-
-_What is Markdown?_
-
-Markdown is a begginer friendly coding language used primarly for tweaking the appearance of plain text.
+[Read: 01 - Learning Markdown](https://cianedanan.github.io/reading-notes/)
 
 
 
