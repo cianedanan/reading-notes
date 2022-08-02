@@ -17,7 +17,7 @@ Reminders for maintaining a __Growth Mindset__
 
 Peep my profile [here!](https://github.com/cianedanan)
 
-[Read: 01 - Learning Markdown](https://cianedanan.github.io/reading-notes/)
+[Read: 01 - Learning Markdown](https://cianedanan.github.io/reading-notes/class1.html)
 
 [Read: 02 - The Coder's Computer](https://cianedanan.github.io/reading-notes/class2.html)
 
