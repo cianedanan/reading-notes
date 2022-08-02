@@ -4,7 +4,7 @@ __Markdowns and ~~Fixed~~ Growth Mindset__
 
 _Having a growth mindset is knowing desired skills and intelligence are obtainable through perserverance. Being born gifted sure can help, but full potential can't be reached without consistant effort._ 
 
-_:muscle::triumph: > :four_leaf_clover:_ 
+_💪😤 > 🍀_ 
 
 Reminders for maintaining a __Growth Mindset__
 1. Ask what went well and ask what could have gone better?
