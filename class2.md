@@ -33,7 +33,7 @@ __cd__ stands for Change Directories and it changes the location.
 
 * file.png, file.gif, file.jpg - an image.
 
-**Usefull Commands:**
+**Useful Commands:**
 
 * __file__ gets info about what type of file a file or directory is.
 
@@ -41,4 +41,4 @@ __cd__ stands for Change Directories and it changes the location.
 
 * Behind the scenes, everything is a file with Linux 
 
-* Linux is case snesitive
+* Linux is case sensitive
