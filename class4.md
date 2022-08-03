@@ -56,10 +56,3 @@ HTML is a markup language and is the backbone of a website. Like Markdown, HTML 
 ## Semantics
 
 Semantics asks what does this code do? Because of semantics you have an idea of how an element or code will function without it running. 
-
-
-
-
-
-
- 

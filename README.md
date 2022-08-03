@@ -23,10 +23,14 @@ Reminders for maintaining a __Growth Mindset:__
 
 ## Table of Contents
 
-[Read: 01 - Learning Markdown](https://cianedanan.github.io/reading-notes/class1.html)
+[Read: 01 - Learning Markdown](class1.md)
 
-[Read: 02 - The Coder's Computer](https://cianedanan.github.io/reading-notes/class2.html)
+[Read: 02 - The Coder's Computer](class2.md)
 
-[Read: 03 - Revisions and the Cloud](https://cianedanan.github.io/reading-notes/class3.html)
+[Read: 03 - Revisions and the Cloud](class3.md)
 
-[Read: 04 - Structure web pages with HTML](https://cianedanan.github.io/reading-notes/class4.html)
+[Read: 04 - Structure web pages with HTML](class4.md)
+
+[Read: 05 - Design web pages with CSS](class5.md)
+
+[Read: 06 - Dynamic web pages with JavaScript](class6.md)

@@ -37,5 +37,3 @@ With headings make sure to add a space between the # and header or you'll get th
 #Header
 
 Different Markdown processors give different results which can be viewed at [this site.](https://www.markdownguide.org/basic-syntax/)
-
-ssss
