@@ -17,7 +17,7 @@ Sketch > Wireframe > Visual > Code
 
 Typically high valued projects need elaborate wireframing.
 
-There are plenty of free wire framing tools to choose from, but UXPin, InVision and wirfram.cc are reccomended. 
+There are plenty of free wireframing tools to choose from, but UXPin, InVision and wirfram.cc are recommended. 
 
 ___How to make a wireframe___
 
@@ -31,7 +31,7 @@ ___How to make a wireframe___
  
 5. Start testing
 
-6. Protoype
+6. Prototype
 
 ___Three key principles___ 
 
@@ -49,13 +49,13 @@ Keep the site clean. Fluff should be kept at a minimum.
 
 ## HTML
 
-HTML is a markup language and is the backbone of a website. Like Markdown, HTML changes the appearance of text and create links with the use of enclosing tags.  
+HTML is a markup language and is the backbone of a website. Like Markdown, HTML changes the appearance of text and creates links with the use of enclosing tags.  
 
-[Begginer HTML Elemnts](https://html.com/)
+[Beginner HTML Elements](https://html.com/)
 
 ## Semantics
 
-Semantics asks what does this code do? Because of senematics you have an idea of how an element or code will function without it running. 
+Semantics asks what does this code do? Because of semantics you have an idea of how an element or code will function without it running. 
 
 
 
