@@ -12,8 +12,8 @@ __What's Git?__
  * Git detects file corruption or loss of info
  * hard to lose data or files on Git
  * files in Git have three main states
-    * commited: data is securely stored
+    * committed: data is securely stored
     * modified: file has changed but not committed
-    * staged: flagged a file's changed version to be commited
+    * staged: flagged a file's changed version to be committed
 
 [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
