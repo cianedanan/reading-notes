@@ -54,9 +54,9 @@ In __x = 12__ the = operator assigns the value to the variable x. The expression
 
 Sources: 
 
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators
+![https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators)
 
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration
+![https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration)
 
 
 
