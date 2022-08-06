@@ -24,3 +24,7 @@ Peep my profile [here!](https://github.com/cianedanan)
 [Read: 05 - Design web pages with CSS](class5.md)
 
 [Read: 06 - Dynamic web pages with JavaScript](class6.md)
+
+[Read: 07 - Programming with JavaScript](class7.md)
+
+[Read: 08 - Operators and Loops](class8.md)

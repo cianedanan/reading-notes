@@ -52,13 +52,6 @@ In __x = 12__ the = operator assigns the value to the variable x. The expression
 * While statement will as long as condition is true.
     ![whileloop](images/while-statement.png)
 
-
-
-
-
-
-
-
 Sources: 
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators

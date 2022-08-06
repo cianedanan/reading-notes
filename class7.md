@@ -11,9 +11,9 @@
 ### Function Syntax
 
 * JS functions are defined with the function keyword, followed by a name and parentheses.
-    * ei function eatFood()
+    * function eatFood()
 * Parentheses may inlcude parameter names seperated by commas.
-    * ei (param1, param2, ...)
+    * (param1, param2, ...)
 *Function arguments are the values received by the function when invoked.
 * When JS reaches a return statement, the function willstop executing.
 * After defining code, it can be reused many times.
