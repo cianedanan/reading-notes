@@ -6,7 +6,7 @@ CSS stands for Cascading Style Sheets. While HTML can change some visual appeara
 
 ___Syntax___
 
-[Picture](Syntax.png)
+![Picture](images/Syntax.png)
 
 ___New Vocab___
 
@@ -19,18 +19,22 @@ ___How to Add CSS___
 The three ways of inserting a style sheet are:
 
 * External CSS.
+    * External styles are defined within the link element, inside the head section of an HTML page
+    * Can be written in any text editor and must be sved with a .css extension
+    * Shouldn't contain any HTML tags
+
 * Internal CSS.
+    * An internal style sheet may be used if one single HTML page has a unique style
+    * The internal style is defined inside the style element, inside the head section
+
 * Inline CSS.
+    * Inline may be used to apply unique style for a single element
 
-_External_
+CSS Priority:
 
-* Defined within the <link>, inside the <head> of an HTML page. 
-* Can be written in any text edior.
-* Must be saved witha .css extension.
+1. Inline style (inside an HTML element)
+2. External and internal style sheets (in the head section)
+3. Browser default
 
-_Internal_
-
-* Defined
-
-
+[Reference Link](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 
