@@ -26,6 +26,16 @@ Variable z will contain 11 until variable x or y is changed.
 
 Use __const__ with static variables and let with no static numbers.
 
+## Sources:
+
+[https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+[https://code-maven.com/input-output-in-plain-javascript](https://code-maven.com/input-output-in-plain-javascript)
+
+[https://code-maven.com/input-output-in-plain-javascript](https://code-maven.com/input-output-in-plain-javascript)
+
+[https://www.w3schools.com/js/js_variables.asp](https://www.w3schools.com/js/js_variables.asp)
+
 
 
 

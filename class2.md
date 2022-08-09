@@ -42,3 +42,14 @@ __cd__ stands for Change Directories and it changes the location.
 * Behind the scenes, everything is a file with Linux 
 
 * Linux is case sensitive
+
+### Sources:
+
+[https://codefellows.github.io/code-102-guide/curriculum/class-02/Choosing-A-Text-Editor--The-Older-Coder.pdf](https://codefellows.github.io/code-102-guide/curriculum/class-02/Choosing-A-Text-Editor--The-Older-Coder.pdf)
+
+[https://ryanstutorials.net/linuxtutorial/commandline.php](https://ryanstutorials.net/linuxtutorial/commandline.php)
+
+[https://ryanstutorials.net/linuxtutorial/navigation.php](https://ryanstutorials.net/linuxtutorial/navigation.php)
+
+[https://ryanstutorials.net/linuxtutorial/aboutfiles.php](https://ryanstutorials.net/linuxtutorial/aboutfiles.php)
+

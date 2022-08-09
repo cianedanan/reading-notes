@@ -56,3 +56,19 @@ HTML is a markup language and is the backbone of a website. Like Markdown, HTML 
 ## Semantics
 
 Semantics asks what does this code do? Because of semantics you have an idea of how an element or code will function without it running. 
+
+
+### Sources:
+
+[https://careerfoundry.com/en/blog/ux-design/how-to-create-your-first-wireframe/](https://careerfoundry.com/en/blog/ux-design/how-to-create-your-first-wireframe/)
+
+[https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
+
+[https://developer.mozilla.org/en-US/docs/Web/HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+
+[https://developer.mozilla.org/en-US/docs/Web/HTML/Element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+
+[https://developer.mozilla.org/en-US/docs/Web/HTML/Element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+
+
+

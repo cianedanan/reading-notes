@@ -29,4 +29,17 @@
 * Assignment operators assign values to JS variables.
 * Adding a number and a string will return a string.
 
+## Sources:
+
+[https://developer.mozilla.org/en-US/docs/Glossary/Control_flow](https://developer.mozilla.org/en-US/docs/Glossary/Control_flow)
+
+[https://www.w3schools.com/js/js_functions.asp](https://www.w3schools.com/js/js_functions.asp)
+
+[https://www.w3schools.com/js/js_operators.asp](https://www.w3schools.com/js/js_operators.asp)
+
+[https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators)
+
+[https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)
+
+
 

@@ -36,5 +36,17 @@ CSS Priority:
 2. External and internal style sheets (in the head section)
 3. Browser default
 
-[Reference Link](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+### Sources: 
+
+[https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS) 
+
+[https://www.w3schools.com/css/css_howto.asp](https://www.w3schools.com/css/css_howto.asp)
+
+[https://www.w3schools.com/cssref/pr_text_color.asp](https://www.w3schools.com/cssref/pr_text_color.asp)
+
+[https://developer.mozilla.org/en-US/docs/Web/CSS/Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+
+[https://meyerweb.com/eric/tools/css/reset/](https://meyerweb.com/eric/tools/css/reset/)
+
+[https://developer.mozilla.org/en-US/docs/Web/HTML/Element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 

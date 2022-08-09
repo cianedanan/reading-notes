@@ -17,3 +17,8 @@ __What's Git?__
     * staged: flagged a file's changed version to be committed
 
 [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
+
+### Sources:
+
+[https://blog.udemy.com/git-tutorial-a-comprehensive-guide/](https://canvas.https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
+

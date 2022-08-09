@@ -36,4 +36,10 @@ With headings make sure to add a space between the # and header or you'll get th
 
 #Header
 
-Different Markdown processors give different results which can be viewed at [this site.](https://www.markdownguide.org/basic-syntax/)
+### Sources:
+
+[https://www.markdownguide.org/basic-syntax/](https://www.markdownguide.org/basic-syntax/)
+
+[https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+[https://pages.github.com/](https://pages.github.com/)
