@@ -46,7 +46,7 @@ Peep my profile [here!](https://github.com/cianedanan)
 
 [Read: 01 - Introductory HTML and JavaScript ](class-01.md)
 
-[Read: 02 ]()
+[Read: 02 - Basics of HTML, CSS & JS](class-02.md)
 
 [Read: 03 ]()
 
