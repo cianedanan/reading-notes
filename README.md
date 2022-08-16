@@ -44,7 +44,7 @@ Peep my profile [here!](https://github.com/cianedanan)
 
 <br>
 
-[Read: 01 - Introductory HTML and JavaScript ]()
+[Read: 01 - Introductory HTML and JavaScript ](class-01.md)
 
 [Read: 02 ]()
 
