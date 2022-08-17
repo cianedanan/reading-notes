@@ -87,3 +87,6 @@ A loop is useful in JS when a code needs to be repeated until a condition is met
 
 [https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Looping_code](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Looping_code)
 
+## Things I want to know more about
+
+Can you have an array inside an array inside an array. Is there a limit if so?
