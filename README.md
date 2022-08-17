@@ -48,7 +48,7 @@ Peep my profile [here!](https://github.com/cianedanan)
 
 [Read: 02 - Basics of HTML, CSS & JS](class-02.md)
 
-[Read: 03 ]()
+[Read: 03 - HTML Lists, Control Flow with JS, and the CSS Box Model ](class-03.md)
 
 [Read: 04 ]()
 
