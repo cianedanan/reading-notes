@@ -55,7 +55,7 @@ Margin is the bouncer at the club The Box Model. Padding is the body gaurd for t
 
 People array is a valid array. You can access it by chaining two sets of brackests and using the index numbers.
 
-console.log(people[3][3]); would display the string artist in the console.
+console.log(people[2][2]); would display the string artist in the console.
 
 ### 3. List five shorthand operators for assignment in javascript and describe what they do.
 
