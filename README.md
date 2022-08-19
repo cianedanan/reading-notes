@@ -52,7 +52,7 @@ Peep my profile [here!](https://github.com/cianedanan)
 
 [Read: 04 - HTML Links, JS Functions, and Intro to CSS Layout](class-04.md)
 
-[Read: 05 ]()
+[Read: 05 - Images, Color, Text](class-05.md)
 
 [Read: 06 ]()
 
