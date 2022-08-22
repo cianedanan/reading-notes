@@ -54,7 +54,7 @@ Peep my profile [here!](https://github.com/cianedanan)
 
 [Read: 05 - Images, Color, Text](class-05.md)
 
-[Read: 06 ]()
+[Read: 06 - Readings: Problem Domain, Objects, and the DOM]()
 
 [Read: 07 ]()
 
