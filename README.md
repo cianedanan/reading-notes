@@ -56,7 +56,7 @@ Peep my profile [here!](https://github.com/cianedanan)
 
 [Read: 06 - Readings: Problem Domain, Objects, and the DOM](class-06.md)
 
-[Read: 07 ]()
+[Read: 07 - Readings: Object-Oriented Programming, HTML Tables](class-07.md)
 
 [Read: 08 ]()
 
