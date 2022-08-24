@@ -1,6 +1,6 @@
-## Read: Class 06
+# Read: Class 06
 
-### Readings: Problem Domain, Objects, and the DOM
+## Readings: Problem Domain, Objects, and the DOM
 
 Objects are more complicated arrays that allow function storing. Understanding what a DOM is gives a wider of how webpages work as a whole. 
 
