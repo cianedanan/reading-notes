@@ -58,11 +58,11 @@ Peep my profile [here!](https://github.com/cianedanan)
 
 [Read: 07 - Readings: Object-Oriented Programming, HTML Tables](class-07.md)
 
-[Read: 08 ]()
+[Read: 08 - Flexbox](class-08.md)
 
-[Read: 09 ]()
+[Read: 09 - Forms and JS Events](class-09.md)
 
-[Read: 10 ]()
+[Read: 10 - Debugging](class-10.md)
 
 [Read: 11 ]()
 
