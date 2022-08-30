@@ -66,7 +66,7 @@ Peep my profile [here!](https://github.com/cianedanan)
 
 [Read: 11 ]()
 
-[Read: 12 ]()
+[Read: 12 - Readings: Chart.js, Canvas](class-12.md)
 
 [Read: 13 ]()
 
