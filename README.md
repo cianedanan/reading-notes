@@ -68,8 +68,10 @@ Peep my profile [here!](https://github.com/cianedanan)
 
 [Read: 12 - Readings: Chart.js, Canvas](class-12.md)
 
-[Read: 13 ]()
+[Read: 13 - Readings - Reading](class-13.md)
 
-[Read: 14 ]()
+[Read: 14a](class-14.md)
+
+[Read: 14b](class-14.md)
 
 [Read: 15 ]()
