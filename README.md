@@ -76,8 +76,12 @@ Peep my profile [here!](https://github.com/cianedanan)
 
 [Read: 14b](class-14b.md)
 
+<br>
+
 ## Code 301 - Intermediate Software Development
 
 [Read: 01 - Introduction to React and Components](301-class-01.md)
+
+<br>
 
 ## Code 401 - Advanced Software Development
