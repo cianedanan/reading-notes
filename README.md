@@ -80,7 +80,13 @@ Peep my profile [here!](https://github.com/cianedanan)
 
 ## Code 301 - Intermediate Software Development
 
+<br>
+
 [Read: 01 - Introduction to React and Components](301-class-01.md)
+
+[Read: 02 - State and Props](301-class-02.md)
+
+[Read: 03 - Passing Functions as Props](301-class-03.md)
 
 <br>
 
