@@ -88,6 +88,6 @@ Peep my profile [here!](https://github.com/cianedanan)
 
 [Read: 03 - Passing Functions as Props](301-class-03.md)
 
-<br>
+[Read: 04 - React and Forms](301-class-04.md)
 
 ## Code 401 - Advanced Software Development
