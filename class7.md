@@ -2,8 +2,8 @@
 
 ## Control Flow
 
-* The order in which the computer executes statesments
-* Code runs from the first line to the last line unless interupted by conditionals or loops
+* The order in which the computer executes statements
+* Code runs from the first line to the last line unless interrupted by conditionals or loops
 
 ### If Statment Syntax
 ![if else statement](images/Syntax.png)
@@ -12,12 +12,12 @@
 
 * JS functions are defined with the function keyword, followed by a name and parentheses.
     * function eatFood()
-* Parentheses may inlcude parameter names seperated by commas.
+* Parentheses may include parameter names separated by commas.
     * (param1, param2, ...)
 *Function arguments are the values received by the function when invoked.
-* When JS reaches a return statement, the function willstop executing.
+* When JS reaches a return statement, the function will stop executing.
 * After defining code, it can be reused many times.
-* The () Operator incokes the Function
+* The () Operator invokes the Function
 * Variables declared withing a JS function, become local.
 
 ### JavaScript Operators

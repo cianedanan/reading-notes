@@ -12,11 +12,11 @@ Objects are more complicated arrays that allow function storing. Understanding w
 
 2. What are some advantages to creating object literals?
 
-    Obejct literals make it easy to identify single items by name and when you want to transfer a a colleciton of structured data items.
+    Object literals make it easy to identify single items by name and when you want to transfer a a collection of structured data items.
 
 3. How do objects differ from arrays?
 
-    You can store functions in objects and you access items in an objects with names instead of indecing with numbers.
+    You can store functions in objects and you access items in an objects with names instead of indexing with numbers.
 
 4. Give an example for when you would need to use bracket notation to access an object’s property instead of dot notation.
 
@@ -24,7 +24,7 @@ Objects are more complicated arrays that allow function storing. Understanding w
 
 5. Evaluate the code below. What does the term this refer to and what is the advantage to using this?
 
-    "this" refers to the name and age property spot and 2. It's succint and easy to read.
+    "this" refers to the name and age property spot and 2. It's succinct and easy to read.
 
 ### Sources
 

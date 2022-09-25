@@ -2,7 +2,7 @@
 
 ## Expressions and Operators
 
-* An experssion is a valid unit of code that resolves to a value
+* An expression is a valid unit of code that resolves to a value
 
 In __x = 12__ the = operator assigns the value to the variable x. The expression evaluates to 12.
 
@@ -25,7 +25,7 @@ In __x = 12__ the = operator assigns the value to the variable x. The expression
 * ___Comparison operators___
     * Compares its operands and returns a logical value based on whether the comparison is true.
 
-    ![Comaparison](images/comparison.png)
+    ![Comparison](images/comparison.png)
 
 * ___Arithmetic operators___
     * An arithmetic operator takes numerical values (either literals or variables) as their operands and returns a single numerical value

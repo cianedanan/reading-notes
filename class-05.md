@@ -8,15 +8,15 @@ Knowing which image type to use is important because some images are required to
 
 1. What is a real world use case for the alt attribute being used in a website?
 
-    If the file or path was wrong the description of the picture would be an indactor.
+    If the file or path was wrong the description of the picture would be an indicator.
 
 2. How can you improve accessibility of images in an HTML document?
 
-    Assigning alt tags and using a tilte name that describes the link  can improve acessibility of HTML documents.
+    Assigning alt tags and using a title name that describes the link  can improve accessibility of HTML documents.
 
 3. Provide an example of when the figure element would be useful in an HTML document.
 
-    When you want to semantically ogranize an images, videos, code snippets, equations, etc.
+    When you want to semantically organize an images, videos, code snippets, equations, etc.
 
 4. Describe the difference between a gif image and an svg image, pretend you are explaining to an elder in your community.
 

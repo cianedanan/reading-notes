@@ -4,7 +4,7 @@
 
 __What's Git?__
 
-* Git creates a snapshot of the file and stores a reference everytime a edited project is saved
+* Git creates a snapshot of the file and stores a reference every time a edited project is saved
 * Git is dependent on local operations 
     * works offline
     * works with active VPN

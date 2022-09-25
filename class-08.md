@@ -28,6 +28,6 @@ It can be difficult or impossible to center a block vertically inside the parent
 
 2. How does this topic connect with your long term goals?
 
-Using flex box can save a lot of time when trying to line up elements in an organized way. This connects to my long term goal of being proficient at programming by adding another tool to my aresnal.
+Using flex box can save a lot of time when trying to line up elements in an organized way. This connects to my long term goal of being proficient at programming by adding another tool to my arsenal.
 
 [Flexbox 2](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)

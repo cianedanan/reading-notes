@@ -2,7 +2,7 @@
 
 ## JavaScript
 
-1. What does the canvas allow a developer to acheive?
+1. What does the canvas allow a developer to achieve?
 
 	Lets you draw 2D graphics using JS.
 

@@ -38,13 +38,13 @@ A well put together domain model, can help understand if the right product is be
 
 2. How does the term this differ when used in an object literal versus when used in a constructor?
 
-The keyword this is not so useful when you create a single obejct literal. In a constructor this lets you use the same method definition for all objects created.
+The keyword this is not so useful when you create a single object literal. In a constructor this lets you use the same method definition for all objects created.
 
 ### Source
 
-[Contructors](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics#introducing_constructors)
+[Constructors](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics#introducing_constructors)
 
-## Obejct Prototypes
+## Object Prototypes
 
 1. Explain prototypes and inheritance via an analogy from your previous work experience.
 
@@ -52,4 +52,4 @@ The keyword this is not so useful when you create a single obejct literal. In a 
 
 ### Source
 
-[Obejct Prototypes](https://ui.dev/beginners-guide-to-javascript-prototype)
+[Object Prototypes](https://ui.dev/beginners-guide-to-javascript-prototype)

@@ -21,7 +21,7 @@ This all happens so quick within a second or two.<br>
 <b>How are HTML, CSS AND JS files parsed in the browser?</b>
 <br>
 
-In a browser HTML contributes to the structure of the webpage, CSS performs the aethetics or styling of the webapge, and JS contribute how the webpage functions.
+In a browser HTML contributes to the structure of the webpage, CSS performs the aesthetics or styling of the webpage, and JS contribute how the webpage functions.
 
 <b>How can you find images to add to a Website?</b>
 
@@ -47,7 +47,7 @@ HTML attributes hold extra info about the element that doesn't show up on the si
 
 <b>Describe the Anatomy of an HTMl element.</b>
 
-An element starts with an openening tag. Within the opening and angle brackets is the name of the element. In the middle of the element is the content. The content is what can be visably seen on the site. At the end of the element is the closing tag. It's the same as the opening tag excpet before the name of the element there should be a forward slash.
+An element starts with an opening tag. Within the opening and angle brackets is the name of the element. In the middle of the element is the content. The content is what can be visibly seen on the site. At the end of the element is the closing tag. It's the same as the opening tag except before the name of the element there should be a forward slash.
 
 <b>What is the difference between article and section element tags?</b>
 
@@ -55,7 +55,7 @@ Article is best used for blocks of information or texts that would make sense by
 
 <b>What Elements does a “typical” website include?</b>
 
-A typical website inlcudes the Elements main, body, article, section, aside, header, nav and footer. 
+A typical website includes the Elements main, body, article, section, aside, header, nav and footer. 
 
 <b>How does metadata influence Search Engine Optimization?</b>
 
@@ -63,7 +63,7 @@ Choosing good keywords in the metadata could possibly raise the relevancy of the
 
 <b>How is the meta HTML tag used when specifying metadata?</b>
 
-Plenty of meta elemnts include name which clarifies the type of information it holds and content which clarifies the actual content of the page.
+Plenty of meta elements include name which clarifies the type of information it holds and content which clarifies the actual content of the page.
 
 <b>What is the first step to designing a Website?</b>
 
@@ -71,15 +71,15 @@ The first step to designing a Website is figure out what you want to accomplish 
 
 <b>What is the most important question to answer when designing a Website?</b>
 
-The most important question to asnswer when designing a Website is: What exactly do I want to accomplish?
+The most important question to answer when designing a Website is: What exactly do I want to accomplish?
 
 <b>Why should you use an h1 element over a span element to display a top level heading?</b>
 
-The span elemnt holds no semantic value while the h1 element does.
+The span element holds no semantic value while the h1 element does.
 
 <b>What are the benefits of using semantic tags in our HTML?</b>
 
-Sementic tags us know what the element will do.
+Semantic tags us know what the element will do.
 
 <b>Describe 2 things that require JavaScript in the Browser</b>
 

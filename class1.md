@@ -2,7 +2,7 @@
 
 ___What is Markdown?___
 
-Markdown is a begginer friendly formatting syntax.   
+Markdown is a beginner friendly formatting syntax.   
 
 ___When to use Markdown?___
 

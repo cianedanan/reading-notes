@@ -10,7 +10,7 @@ ___Syntax___
 
 ___New Vocab___
 
-Document - A text file structured primarky by HTML.
+Document - A text file structured primary by HTML.
 
 Presenting - Converting a document into a form usable by an audience.
 
@@ -20,7 +20,7 @@ The three ways of inserting a style sheet are:
 
 * External CSS.
     * External styles are defined within the link element, inside the head section of an HTML page
-    * Can be written in any text editor and must be sved with a .css extension
+    * Can be written in any text editor and must be saved with a .css extension
     * Shouldn't contain any HTML tags
 
 * Internal CSS.
