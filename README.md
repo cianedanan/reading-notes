@@ -94,4 +94,8 @@ Peep my profile [here!](https://github.com/cianedanan)
 
 [Read: 06 - Node.js](301-class-06.md)
 
+[Read: 07 - REST](301-class-07.md)
+
+<br>
+
 ## Code 401 - Advanced Software Development
